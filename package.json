@@ -1,0 +1,27 @@
+{
+  "name": "minecraft-serverlist",
+  "version": "1.0.0",
+  "description": "basic bot with minecraft api commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Fries-J/minecraft-serverlist.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "john-fries-j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John-Fries-J/minecraft-serverlist/issues"
+  },
+  "homepage": "https://github.com/John-Fries-J/minecraft-serverlist#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "minecraft-server-util": "^5.4.4"
+  }
+}
